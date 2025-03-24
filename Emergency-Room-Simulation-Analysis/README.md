@@ -85,7 +85,7 @@ This project analyzes patient flow in an emergency room (ER) to identify bottlen
 ## 📂 Repository Structure
 - `emergency-room.csv`: Raw data.
 - `analysis.Rmd`: R code for analysis and simulation.
-
+- `results/`: Visualizations (utilization graphs, flow time trends).
 ---
 
 ## 🔧 How to Reproduce
